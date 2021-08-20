@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_sspres</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>19/6/2016 09:55:00</timeStamp>
+  <nameHash>sspres</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>sspres_AUTOGEN</Item>
+        <Item>sspres_UNLOCKS_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="11" />  
+</SSetupData>
